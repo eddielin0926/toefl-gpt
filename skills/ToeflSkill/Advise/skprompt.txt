@@ -1,6 +1,33 @@
 Be TOEFL rater to give advices for improving the essay.
-Use bullet point to summerize suggestion.
-Give examples of suggestion by rewriting sentences from answer.
+Use bullet point to summarize suggestion and use some examples to illustrate.
+
+[QUESTION]
+
+Do you agree or disagree with the following statement?
+Governments should spend more money in support of the arts than in support of athletics such as state-sponsored Olympic teams.
+Use specific reasons and examples to support your answer.
+
+[ANSWER]
+
+Spending money on athletes or art masterpieces can both result in total elevation of public cultural quality. Based on the aforementioned fact, the distribution of the money cause incessant arguments since both parties need larger part of the funds. For me, I agree with the idea paying more money on preserving and restoring art pieces. Artworks ranging from the past centuries to recent decades of substantial cultural meanings reflects various perspectives and philosophies.
+
+First, because of the fragile nature of every artworks, many masterpieces are suspect to corruption and deprecation, urges the public to make relentless efforts to protect the paintings and sculptures from being eroded and destroyed. That is, the process of saving art demands massive amount of money, leaving less portion of the capital for the sports association to pay for the athletes and the workers. For example, the legendary artist Da VinCi portrayed the renowned painting " The Mona Lisa's smile", leading to tens of thousands of people captivated by the charm inside the masterpiece, is being preserved and maintained in Paris causing tons of money being spent.
+
+Second, artworks are paths to introspect what's really happening in the era that the art was completed. Without art pieces preserved for the later people to scrutinize and analyze the context between themselves, we cannot really understand the history and the thoughts of the past. For example, in Renaissance era, artists finished a myriad of paintings and sculptures in order to pay respect to theirs gods and the citadel. Given the historic items we discovered around this era, we can utilize the evidence we found to determine what was the mai religion of their time.
+
+Finally, spending money on sports team and competitions are futile for the human no matter the aesthetic point of view or the pragmatic counterpart. Owing to the fact that sports are participated in living people which are mostly replaceable. In sharp contrast, we cannot revive the dead artists to recreate what was accomplished centuries ago, thus we must make sure the art is preserved for the later people.
+
+In conclusion, I strongly agree with the idea of paying more money to art rather than giving money away to the sports companies.
+
+[ADVISE]
+
+- Try to avoid using "that is" or "thus" too much, it can make the essay sound a bit repetitive.
+- Use more transitional words to connect your ideas. For example, you can use "moreover" or "in addition" to introduce your second point.
+- Provide more specific examples to support your argument. You can mention other famous artworks besides the Mona Lisa and explain why they are important.
+- Make sure you proofread your essay for grammar and spelling errors. For example, you wrote "mai religion" instead of "main religion." 
+- Consider addressing counterarguments in your essay. For example, some people might argue that sports are important for promoting physical health and teamwork skills. You could acknowledge this point of view and explain why you still believe art is more important.
+
+===
 
 [QUESTION]
 {{$question}}

@@ -1,0 +1,40 @@
+Be TOEFL rater to score the answer.
+
+| SCORE | TASK DESCRIPTION |
+| ----- | ---------------- |
+| 5     | Effectively addresses the topic and task. Is well organized and well developed, using clearly appropriate explanations, exemplifications and/or details. Displays unity, progression and coherence. Displays consistent facility in the use of language, demonstrating syntactic variety, appropriate word choice and idiomaticity, though it may have minor lexical or grammatical errors. |
+| 4     | Addresses the topic and task well, though some points may not be fully elaborated. Is generally well organized and well developed, using appropriate and sufficient explanations, exemplifications and/or details. Displays unity, progression and coherence, though it may contain occasional redundancy, digression, or unclear connections. Displays facility in the use of language, demonstrating syntactic variety and range of vocabulary, though it will probably have occasional noticeable minor errors in structure, word form or use of idiomatic language that do not interfere with meaning. |
+| 3     | Addresses the topic and task using somewhat developed explanations, exemplifications and/or details. Displays unity, progression and coherence, though connection of ideas may be occasionally obscured. May demonstrate inconsistent facility in sentence formation and word choice that may result in lack of clarity and occasionally obscure meaning. May display accurate but limited range of syntactic structures and vocabulary. |
+| 2     | Limited development in response to the topic and task. Inadequate organization or connection of ideas. Inappropriate or insufficient exemplifications, explanations or details to support or illustrate generalizations in response to the task. A noticeably inappropriate choice of words or word forms. An accumulation of errors in sentence structure and/or usage. |
+| 1     | Serious disorganization or underdevelopment. Little or no detail, or irrelevant specifics, or questionable responsiveness to the task. Serious and frequent errors in sentence structure or usage. |
+| 0     | merely copies words from the topic, rejects the topic, or is otherwise not connected to the topic, is written in a foreign language, consists of keystroke characters, or is blank. |
+
+[QUESTION]
+
+Do you agree or disagree with the following statement?
+Governments should spend more money in support of the arts than in support of athletics such as state-sponsored Olympic teams.
+Use specific reasons and examples to support your answer.
+
+[ANSWER]
+
+Participating and winning medals in Olympic Games is the final goal for almost all the athletes and watching nation\'s teams gain good results in the Olympic Games is the most exciting and proud moment for all citizens. There is no doubt that with more funds, teams will be more likely to achieve better grades in international competitions, and I completely agree that the government should invest more on athletes. But we should not undermine the importance of arts at the same time.
+
+To start with, funding in athletes can be beneficial to the country image. Establishing an outstanding sports team is extremely costly, and the money can be spent in various ways to improve the team condition. For instance, buying high-quality training facilities can protect athletics from being injured and increase the training efficiency. Hence, the fund from the government can increase the possibilities for the team to gain gold medals in international competitions, which not only the team can bring glory to the country and people, the international image of the national can also be largely lifted.
+
+On top of that, seeing the nation\'s team gain good results in international competitions can motivate more people to play sports and do exercises, which can increase the citizens\' health level. My personal experience is a compelling example of this. In my primary school age, I hated doing sports and I always got sick, but things changed after I became a huge fan of Chinese swimming team after watching the 2008 Olympic Games. Since then, I started to go swimming every weekend until now. Although I did not become as good as them, I become much healthier and seldom get sick.
+
+I cannot deny that arts can also represent the image of a country and investing on arts can improve citizens\' aesthetic level. However, people normally pay less attention on arts than sports, and artists have more ways to gather funds, like through donations from art organizations. Therefore, it is more crucial to invest more in athletes.
+
+Consequently, I am of the opinion that governments should invest more in support of athletes. This is because the enhancement of sports teams can bring glory to the country, and more citizens will be encouraged to participate in exercising and promote the overall health level.
+
+[Score]
+
+Raw Score: 5
+
+===
+
+[QUESTION]
+{{$question}}
+[ANSWER]
+{{$answer}}
+[ADVISE]
