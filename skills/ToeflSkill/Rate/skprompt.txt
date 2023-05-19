@@ -37,4 +37,4 @@ Raw Score: 5
 {{$question}}
 [ANSWER]
 {{$answer}}
-[ADVISE]
+[Score]
