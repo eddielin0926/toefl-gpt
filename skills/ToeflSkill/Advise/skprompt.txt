@@ -1,0 +1,9 @@
+Be TOEFL rater to give advices for improving the essay.
+Use bullet point to summerize suggestion.
+Give examples of suggestion by rewriting sentences from answer.
+
+[QUESTION]
+{{$question}}
+[ANSWER]
+{{$answer}}
+[ADVISE]

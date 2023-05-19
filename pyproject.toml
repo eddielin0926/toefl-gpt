@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "toefl-gpt"
+version = "0.1.0"
+description = ""
+authors = ["Eddie Lin <a-eddielin@microsoft.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+semantic-kernel = "^0.2.8.dev0"
+ipykernel = "^6.23.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

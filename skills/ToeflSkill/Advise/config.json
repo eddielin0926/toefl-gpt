@@ -1,0 +1,16 @@
+{
+    "schema": 1,
+    "description": "Give advice to answer",
+    "type": "completion",
+    "completion": {
+        "max_tokens": 1000,
+        "temperature": 0.5,
+        "top_p": 0.5,
+        "presence_penalty": 0.1,
+        "frequency_penalty": 0.5,
+        "stop_sequences": [
+            "<|im_end|>",
+            "==="
+        ]
+    }
+}
